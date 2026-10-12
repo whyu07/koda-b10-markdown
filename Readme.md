@@ -1,4 +1,4 @@
-![markdown](https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2022/02/BLOG-Mengenal-Lebih-Dekat-Apa-itu-React-1024x538.jpg)
+![markdown](react.jpeg)
 # Mengenal Lebih Dekat Apa itu React
 
 Mungkin untuk kamu yang sudah lama berkecimpung dalam dunia pembuatan website sudah tidak asing lagi mendengar kata React. Apa itu React? Singkatnya, React merupakan sebuah library dari JavaScript yang digunakan untuk membuat user interface. 
